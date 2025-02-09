@@ -1,6 +1,6 @@
 ### Strategic Merger Analysis: LioCinema & Jotstar
 
-##Overview
+## Overview
 
 This project is part of Codebasics Challenge #14, where we analyze the strategic merger between LioCinema and Jotstar—two major players in India's OTT industry. The goal is to provide data-driven insights into their performance, subscriber behavior, and content trends to help stakeholders optimize post-merger strategies.
 
